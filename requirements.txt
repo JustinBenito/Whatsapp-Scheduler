@@ -1,0 +1,2 @@
+tkdesigner==1.0.4
+pywhatkit==5.4
